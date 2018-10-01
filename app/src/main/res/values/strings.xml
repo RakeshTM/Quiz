@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DA Quiz</string>
+    <string name="quiz_loading">Loading . . .</string>
+    <string name="score_format">Score : %1$d / %2$d</string>
+    <string name="final_score_format">%1$d</string>
+    <string name="warning_message">Your Answers will be lost.</string>
+</resources>
